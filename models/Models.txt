@@ -1,0 +1,88 @@
+===============================
+sklearn.linear_model
+===============================
+
+1. Regression Models
+--------------------
+LinearRegression
+Ridge
+Lasso
+ElasticNet
+BayesianRidge
+HuberRegressor
+RANSACRegressor
+SGDRegressor
+PassiveAggressiveRegressor
+TheilSenRegressor
+QuantileRegressor
+TweedieRegressor
+PoissonRegressor
+GammaRegressor
+
+2. Classification Models
+-------------------------
+LogisticRegression
+SGDClassifier
+PassiveAggressiveClassifier
+Perceptron
+RidgeClassifier
+RidgeClassifierCV
+
+3. Cross-Validation Models
+---------------------------
+RidgeCV
+LassoCV
+ElasticNetCV
+MultiTaskLassoCV
+MultiTaskElasticNetCV
+LogisticRegressionCV
+
+4. Multi-Task Models
+---------------------
+MultiTaskLasso
+MultiTaskElasticNet
+
+5. Orthogonal Matching Pursuit
+------------------------------
+OrthogonalMatchingPursuit
+OrthogonalMatchingPursuitCV
+
+6. Least Angle Regression (LARS)
+--------------------------------
+Lars
+LarsCV
+LassoLars
+LassoLarsCV
+LassoLarsIC
+
+===============================
+Most Important Models
+===============================
+1. LinearRegression
+2. LogisticRegression
+3. Ridge
+4. Lasso
+5. ElasticNet
+6. SGDRegressor
+7. SGDClassifier
+8. RidgeClassifier
+9. Perceptron
+10. PassiveAggressiveClassifier
+
+===============================
+Import Example
+===============================
+
+from sklearn.linear_model import (
+    LinearRegression,
+    LogisticRegression,
+    Ridge,
+    Lasso,
+    ElasticNet,
+    SGDRegressor,
+    SGDClassifier
+)
+
+===============================
+End of Notes
+===============================
