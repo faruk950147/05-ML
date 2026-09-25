@@ -988,17 +988,19 @@ Formula:
 
 ```text
 y = b₀ + b₁x₁ + b₂x₂ + ... + bₙxₙ
+
+y → The output/target we want to predict
+
+b₀ → Intercept (Bias)
+
+x₁, x₂, ..., xₙ → Input features
+
+b₁, b₂, ..., bₙ → Coefficients/weights of the corresponding features
+
+n → Total number of features
 ```
 
 Example:
-
-```text
-House Price =
-5000
-+ 2000(Age)
-+ 300(Size)
-```
-
 Given:
 
 ```text
