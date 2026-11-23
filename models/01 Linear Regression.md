@@ -1064,6 +1064,8 @@ Y =
 ```
 
 Feature matrix including an intercept column:
+column 0 is house area
+column 1 is Intercept
 
 ```text
 X =
