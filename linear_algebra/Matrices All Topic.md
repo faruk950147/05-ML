@@ -4,9 +4,9 @@
 PART-1 : INTRODUCTION
 =====================
 
-1. Matrix is a square or rectangular array of numbers, symbols, or expressions, arranged in rows and columns.
+1. Matrix is a square or rectangular array of numbers in rows and columns.
 
-2. Order / Dimension of Matrix is the number of rows and columns in a matrix, denoted as m × n.
+2. Dimension of Matrix is the number of rows and columns in a matrix, denoted as m × n.
 
 3. Element of Matrix is each individual item in a matrix, denoted as aᵢⱼ.
 
